@@ -1,3 +1,24 @@
+![groups](https://github.com/user-attachments/assets/977b4bf2-b72b-4c51-b114-c6e33e5b6517)
+![interests](https://github.com/user-attachments/assets/a60e47ac-6026-4851-b2f9-fffb6806e4ff)
+![user_groups](https://github.com/user-attachments/assets/160e8f19-bfdc-413f-9741-25e37dfc2e35)
+![user_interests](https://github.com/user-attachments/assets/e771a4af-c855-4025-ae45-c407c5f003ca)
+![users](https://github.com/user-attachments/assets/c1bcd105-4410-444f-87e8-9cdc6f054327)
+![sql groups](https://github.com/user-attachments/assets/34778103-2483-46a0-a32e-b20a6cb0a6ae)
+![sql interests](https://github.com/user-attachments/assets/69aef81f-b5a0-4be7-9a78-5a67135f68a6)
+![sql user-groups](https://github.com/user-attachments/assets/bc77913e-772c-44eb-b782-fdf3f68696d0)
+![user interests sql](https://github.com/user-attachments/assets/50420433-08c9-41ed-9e74-d7dc8fd47684)
+![users](https://github.com/user-attachments/assets/df8c0bc4-2114-424e-a009-84fbcbfefafe)
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
